@@ -17,7 +17,9 @@ Get more work done, with less mess by integrating to some of the most widely use
 |  |   |  
 | -- | -- |
 | Windows | [![Download](https://get.unleash.so/content/desktop/win32/last-update-badge.svg?p=278394636)](https://get.unleash.so/desktop/packages/UnleashSetup.exe) | 
-| macOS | [![Download](https://get.unleash.so/content/desktop/darwin/last-update-badge.svg?p=278394636)](https://get.unleash.so/desktop/packages/UnleashSetup.dmg) | 
+| macOS (Universal) | [![Download](https://get.unleash.so/content/desktop/darwin/last-update-badge.svg?p=278394636)](https://get.unleash.so/desktop/packages/UnleashSetup.dmg) | 
+| macOS (x64) | [![Download](https://get.unleash.so/content/desktop/darwin/last-update-badge.svg?p=278394636)](https://get.unleash.so/desktop/packages/UnleashSetup-x64.dmg) | 
+| macOS (ARM64) | [![Download](https://get.unleash.so/content/desktop/darwin/last-update-badge.svg?p=278394636)](https://get.unleash.so/desktop/packages/UnleashSetup-arm64.dmg) | 
 | Linux (rpm) | [![Download](https://get.unleash.so/content/desktop/linux/last-update-badge.svg?p=278394636)](https://get.unleash.so/desktop/packages/UnleashSetup.rpm) | 
 | Linux (deb) | [![Download](https://get.unleash.so/content/desktop/linux/last-update-badge.svg?p=278394636)](https://get.unleash.so/desktop/packages/UnleashSetup.deb) | 
 
